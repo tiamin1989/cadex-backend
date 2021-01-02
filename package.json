@@ -1,0 +1,27 @@
+{
+  "name": "cadex-backend",
+  "version": "1.0.0",
+  "description": "Мини-проект для компании КАДЭКС (бэкенд)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiamin1989/cadex-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiamin1989/cadex-backend/issues"
+  },
+  "homepage": "https://github.com/tiamin1989/cadex-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
