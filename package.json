@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/tiamin1989/cadex-backend#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "celebrate": "^13.0.4",
     "express": "^4.17.1",
     "joi": "^17.3.0"
   },
